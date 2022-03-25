@@ -9,6 +9,6 @@
   "author": "DOiZ",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^4.0.0"
+    "electron": "^13.6.6"
   }
 }
